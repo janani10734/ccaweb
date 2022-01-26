@@ -29,7 +29,7 @@ function ui() {
                 <h1 className={utilStyles.h1}><b>UI-UX Design</b></h1>
                 <div className={utilStyles.container}>
                 <p className={utilStyles.p}> 
-                        Are you interested in creating a website but do not know how to make it pleasing in terms of aesthetics and user experience? Do join our UI/UX design course where you can learn more about using CSS (Cascading Style Sheets) and JavaScript effectively in order to make your website user-friendly and appealing to the eyes!
+                        This course aims to provide course participants with professional feedback on their mockups, and to learn more about UI/UX as a potential career path.
                     </p>
                     
                     <p className={utilStyles.p}>
